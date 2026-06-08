@@ -7,7 +7,7 @@ O *OrbitOps Mobile* atua como uma solução de telemetria e governança de campo
 
 ---
 
-## Integrantes do Grupo (Engenharia de Software - 3º Ano)
+## Integrantes do Grupo
 * *Mateus dos Santos da Silva* - RM558436
 * *Nickolas Moreno Cardoso* - RM557132
 * *André Giovane de Maria* - RM556384
@@ -16,7 +16,7 @@ O *OrbitOps Mobile* atua como uma solução de telemetria e governança de campo
 
 ## Instruções para Rodar o Projeto
 
-1. Faça o clone deste repositório para a sua máquina local.
+1. Clone este repositório para a sua máquina local.
 2. Abra o terminal na pasta raiz do projeto.
 3. Instale as dependências executando o comando:
    ```bash
